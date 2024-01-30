@@ -37,3 +37,4 @@
 // console.log(number.includes(10));
 // const fillteredNumbers = number.filter((el) => el > 10);
 // console.log(fillteredNumbers);
+console.log()
